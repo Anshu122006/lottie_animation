@@ -1,2 +1,2 @@
 # lottie_animation
-an app that lets you uploadlottie animations
+an app that lets you upload lottie animations
